@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Hyperwave;
+  src: url("./assets/Fonts/Hyperwave.otf") format("opentype");
+}
+
